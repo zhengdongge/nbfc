@@ -1,0 +1,8 @@
+/home/gzd/Documents/git/clone/nbfc/Core/StagWare.Configurations/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/gzd/Documents/git/clone/nbfc/Core/StagWare.Configurations/bin/Release/StagWare.FanControl.Configurations.pdb
+/home/gzd/Documents/git/clone/nbfc/Core/StagWare.Configurations/bin/Release/StagWare.FanControl.Configurations.dll
+/home/gzd/Documents/git/clone/nbfc/Core/StagWare.Configurations/obj/Release/StagWare.FanControl.Configurations.dll
+/home/gzd/Documents/git/clone/nbfc/Core/StagWare.Configurations/obj/Release/StagWare.FanControl.Configurations.pdb
+/home/gzd/Documents/git/clone/nbfc/Core/StagWare.Configurations/bin/Release/System.IO.Abstractions.dll
+/home/gzd/Documents/git/clone/nbfc/Core/StagWare.Configurations/bin/Release/StagWare.BiosInfo.dll
+/home/gzd/Documents/git/clone/nbfc/Core/StagWare.Configurations/bin/Release/StagWare.BiosInfo.pdb

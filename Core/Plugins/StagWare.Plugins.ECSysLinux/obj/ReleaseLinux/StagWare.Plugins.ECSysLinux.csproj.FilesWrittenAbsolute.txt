@@ -1,0 +1,13 @@
+/home/gzd/Documents/git/clone/nbfc/Core/Plugins/StagWare.Plugins.ECSysLinux/obj/ReleaseLinux/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/gzd/Documents/git/clone/nbfc/Core/Plugins/StagWare.Plugins.ECSysLinux/bin/Release/StagWare.Plugins.ECSysLinux.pdb
+/home/gzd/Documents/git/clone/nbfc/Core/Plugins/StagWare.Plugins.ECSysLinux/bin/Release/StagWare.Plugins.ECSysLinux.dll
+/home/gzd/Documents/git/clone/nbfc/Core/Plugins/StagWare.Plugins.ECSysLinux/obj/ReleaseLinux/StagWare.Plugins.ECSysLinux.dll
+/home/gzd/Documents/git/clone/nbfc/Core/Plugins/StagWare.Plugins.ECSysLinux/obj/ReleaseLinux/StagWare.Plugins.ECSysLinux.pdb
+/home/gzd/Documents/git/clone/nbfc/Core/Plugins/StagWare.Plugins.ECSysLinux/bin/Release/StagWare.FanControl.dll
+/home/gzd/Documents/git/clone/nbfc/Core/Plugins/StagWare.Plugins.ECSysLinux/bin/Release/StagWare.FanControl.pdb
+/home/gzd/Documents/git/clone/nbfc/Core/Plugins/StagWare.Plugins.ECSysLinux/bin/Release/NLog.dll
+/home/gzd/Documents/git/clone/nbfc/Core/Plugins/StagWare.Plugins.ECSysLinux/bin/Release/StagWare.FanControl.Configurations.dll
+/home/gzd/Documents/git/clone/nbfc/Core/Plugins/StagWare.Plugins.ECSysLinux/bin/Release/StagWare.FanControl.Configurations.pdb
+/home/gzd/Documents/git/clone/nbfc/Core/Plugins/StagWare.Plugins.ECSysLinux/bin/Release/System.IO.Abstractions.dll
+/home/gzd/Documents/git/clone/nbfc/Core/Plugins/StagWare.Plugins.ECSysLinux/bin/Release/StagWare.BiosInfo.dll
+/home/gzd/Documents/git/clone/nbfc/Core/Plugins/StagWare.Plugins.ECSysLinux/bin/Release/StagWare.BiosInfo.pdb

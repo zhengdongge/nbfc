@@ -1,0 +1,17 @@
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcService/obj/ReleaseLinux/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcService/obj/ReleaseLinux/NbfcService.NoteBookFanControlService.resources
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcService/bin/ReleaseLinux/NbfcService.exe.config
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcService/bin/ReleaseLinux/NbfcService.exe
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcService/obj/ReleaseLinux/NbfcService.exe
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcService/bin/ReleaseLinux/NLog.dll
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcService/bin/ReleaseLinux/StagWare.FanControl.Service.dll
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcService/bin/ReleaseLinux/StagWare.FanControl.Service.pdb
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcService/bin/ReleaseLinux/StagWare.Settings.dll
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcService/bin/ReleaseLinux/StagWare.Settings.pdb
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcService/bin/ReleaseLinux/StagWare.FanControl.dll
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcService/bin/ReleaseLinux/StagWare.FanControl.pdb
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcService/bin/ReleaseLinux/StagWare.FanControl.Configurations.dll
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcService/bin/ReleaseLinux/StagWare.FanControl.Configurations.pdb
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcService/bin/ReleaseLinux/System.IO.Abstractions.dll
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcService/bin/ReleaseLinux/StagWare.BiosInfo.dll
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcService/bin/ReleaseLinux/StagWare.BiosInfo.pdb

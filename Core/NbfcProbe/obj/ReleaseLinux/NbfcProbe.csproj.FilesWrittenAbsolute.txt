@@ -1,0 +1,17 @@
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcProbe/obj/ReleaseLinux/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcProbe/bin/Release/ec-probe.exe.config
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcProbe/bin/Release/ec-probe.pdb
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcProbe/bin/Release/ec-probe.exe
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcProbe/obj/ReleaseLinux/ec-probe.exe
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcProbe/obj/ReleaseLinux/ec-probe.pdb
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcProbe/bin/Release/clipr.dll
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcProbe/bin/Release/nbfc.exe
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcProbe/bin/Release/nbfc.pdb
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcProbe/bin/Release/StagWare.FanControl.dll
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcProbe/bin/Release/StagWare.FanControl.pdb
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcProbe/bin/Release/NLog.dll
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcProbe/bin/Release/StagWare.FanControl.Configurations.dll
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcProbe/bin/Release/StagWare.FanControl.Configurations.pdb
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcProbe/bin/Release/System.IO.Abstractions.dll
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcProbe/bin/Release/StagWare.BiosInfo.dll
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcProbe/bin/Release/StagWare.BiosInfo.pdb

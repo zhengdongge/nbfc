@@ -1,0 +1,5 @@
+/home/gzd/Documents/git/clone/nbfc/Core/StagWare.BiosInfo/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/gzd/Documents/git/clone/nbfc/Core/StagWare.BiosInfo/bin/Release/StagWare.BiosInfo.pdb
+/home/gzd/Documents/git/clone/nbfc/Core/StagWare.BiosInfo/bin/Release/StagWare.BiosInfo.dll
+/home/gzd/Documents/git/clone/nbfc/Core/StagWare.BiosInfo/obj/Release/StagWare.BiosInfo.dll
+/home/gzd/Documents/git/clone/nbfc/Core/StagWare.BiosInfo/obj/Release/StagWare.BiosInfo.pdb

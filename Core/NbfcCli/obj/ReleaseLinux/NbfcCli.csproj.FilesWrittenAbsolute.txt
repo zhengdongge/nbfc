@@ -1,0 +1,7 @@
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcCli/obj/ReleaseLinux/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcCli/bin/ReleaseLinux/nbfc.exe.config
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcCli/bin/ReleaseLinux/nbfc.pdb
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcCli/bin/ReleaseLinux/nbfc.exe
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcCli/obj/ReleaseLinux/nbfc.exe
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcCli/obj/ReleaseLinux/nbfc.pdb
+/home/gzd/Documents/git/clone/nbfc/Core/NbfcCli/bin/ReleaseLinux/clipr.dll

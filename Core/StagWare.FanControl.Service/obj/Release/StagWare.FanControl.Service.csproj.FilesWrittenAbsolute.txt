@@ -1,0 +1,16 @@
+/home/gzd/Documents/git/clone/nbfc/Core/StagWare.FanControl.Service/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/gzd/Documents/git/clone/nbfc/Core/StagWare.FanControl.Service/bin/Release/StagWare.FanControl.Service.dll.config
+/home/gzd/Documents/git/clone/nbfc/Core/StagWare.FanControl.Service/bin/Release/StagWare.FanControl.Service.pdb
+/home/gzd/Documents/git/clone/nbfc/Core/StagWare.FanControl.Service/bin/Release/StagWare.FanControl.Service.dll
+/home/gzd/Documents/git/clone/nbfc/Core/StagWare.FanControl.Service/obj/Release/StagWare.FanControl.Service.dll
+/home/gzd/Documents/git/clone/nbfc/Core/StagWare.FanControl.Service/obj/Release/StagWare.FanControl.Service.pdb
+/home/gzd/Documents/git/clone/nbfc/Core/StagWare.FanControl.Service/bin/Release/NLog.dll
+/home/gzd/Documents/git/clone/nbfc/Core/StagWare.FanControl.Service/bin/Release/StagWare.FanControl.Configurations.dll
+/home/gzd/Documents/git/clone/nbfc/Core/StagWare.FanControl.Service/bin/Release/StagWare.FanControl.Configurations.pdb
+/home/gzd/Documents/git/clone/nbfc/Core/StagWare.FanControl.Service/bin/Release/StagWare.FanControl.dll
+/home/gzd/Documents/git/clone/nbfc/Core/StagWare.FanControl.Service/bin/Release/StagWare.FanControl.pdb
+/home/gzd/Documents/git/clone/nbfc/Core/StagWare.FanControl.Service/bin/Release/StagWare.Settings.dll
+/home/gzd/Documents/git/clone/nbfc/Core/StagWare.FanControl.Service/bin/Release/StagWare.Settings.pdb
+/home/gzd/Documents/git/clone/nbfc/Core/StagWare.FanControl.Service/bin/Release/System.IO.Abstractions.dll
+/home/gzd/Documents/git/clone/nbfc/Core/StagWare.FanControl.Service/bin/Release/StagWare.BiosInfo.dll
+/home/gzd/Documents/git/clone/nbfc/Core/StagWare.FanControl.Service/bin/Release/StagWare.BiosInfo.pdb
